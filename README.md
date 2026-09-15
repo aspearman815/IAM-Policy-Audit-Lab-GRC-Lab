@@ -1,5 +1,6 @@
 # IAM-Policy-Audit-Lab-GRC-Lab
 GRC IAM Audit lab using Terraform and Rego focusing on writing "policy as code"
+Instructions : https://github.com/Johnbjoseph-cybersec/GRC-Playground/
 # Overview
 This lab demonstrates how Governance, Risk, and Compliance (GRC) principles can be translated into automated security controls using Infrastructure as Code (IaC) and Policy as Code.
 I built and tested a Rego policy using Open Policy Agent (OPA) and Conftest to identify overly permissive AWS IAM policies before they could be deployed.
